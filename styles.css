@@ -1,0 +1,26 @@
+.toaster {
+  border: 1px solid gray;
+  border-radius: 8px;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.toaster-error {
+  border-color: red;
+  color: red;
+}
+
+.toaster-info {
+  border-color: rgb(20, 23, 196);
+  color: rgb(20, 23, 196);
+}
+
+.toaster-warning {
+  border-color: rgb(223, 143, 14);
+  color: rgb(223, 143, 14);
+}
+
+.toaster-success {
+  border-color: rgb(9, 180, 32);
+  color: rgb(9, 180, 32);
+}
