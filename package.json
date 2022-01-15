@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.0.0",
-    "testlib": "0.0.0"
+    "bootstrap": "^4.0.0"
   },
   "devDependencies": {
     "http-server": "^14.1.0"
